@@ -1,1 +1,1 @@
-# code for leetcode (python)
+# Code for leetcode (python)
